@@ -1,2 +1,2 @@
-🔒 V2ray Config 🌐
-url: https://raw.githubusercontent.com/LitaviyA/VPN/refs/heads/main/link.txt
+🔒 V2ray Config 🌐 <br />
+url: https://raw.githubusercontent.com/LitaviyA/VPN/refs/heads/main/link.txt <br />
