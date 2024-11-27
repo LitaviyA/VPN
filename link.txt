@@ -1,0 +1,1 @@
+vless://9009b5d8-2f7f-4e1a-98a4-37d47a102691@vpsandry.duckdns.org:443?type=tcp&security=reality&pbk=xaDO107Y7UY8kAkVofojmisP6CiBF_733kbWL5E6ghE&fp=random&sni=yahoo.com&sid=d557&spx=%2F#vpn443
