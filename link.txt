@@ -1,1 +1,2 @@
 vless://9009b5d8-2f7f-4e1a-98a4-37d47a102691@vpsandry.duckdns.org:443?type=tcp&security=reality&pbk=xaDO107Y7UY8kAkVofojmisP6CiBF_733kbWL5E6ghE&fp=random&sni=yahoo.com&sid=d557&spx=%2F#vpn443
+vless://9d5d62f4-1d5e-40e0-b54f-ea038f3b6166@vpsandry.duckdns.org:13266?type=tcp&security=reality&pbk=2arMcgORFyLczN7qg3oAPtLiVgTvStEKAF_W1M9eSxs&fp=random&sni=yahoo.com&sid=d8100ee4&spx=%2F#phone
